@@ -2,9 +2,9 @@
 
 Get `whisper.cpp-windows-vulkan.zip` from the [Releases page](https://github.com/jerryshell/whisper.cpp-windows-vulkan-bin/releases)
 
-## Example: Integration to Subtitle Edit
+## Example: Integration to Subtitle Edit v4.x
 
-Copy file to `%appdata%\Subtitle Edit\Whisper\Cpp`
+Copy files to `%appdata%\Subtitle Edit\Whisper\Cpp`
 
 You may need to create the directory manually
 
